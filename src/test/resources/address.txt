@@ -1,0 +1,11 @@
+#house|street|postalCode|city|county|state|stateCode|country|countryCode
+531 Union St.|Apt 72||San Diego||NY|789302|USA|001
+532 Union St.|Apt 72||San Diego||NY|789302|USA|001
+533 Union St.|Apt 72||San Diego||NY|789302|USA|001
+534 Union St.|Apt 72||San Diego||NY|789302|USA|001
+535 Union St.|Apt 72||San Diego||NY|789302|USA|001
+536 Union St.|Apt 72||San Diego||NY|789302|USA|001
+537 Union St.|Apt 72||San Diego||NY|789302|USA|001
+538 Union St.|Apt 72||San Diego||NY|789302|USA|001
+539 Union St.|Apt 72||San Diego||NY|789302|USA|001
+540 Union St.|Apt 72||San Diego||NY|789302|USA|001

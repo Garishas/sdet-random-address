@@ -1,0 +1,11 @@
+mc/sdet/codetest/util/AddressParsingUtil.java
+ mc.sdet.codetest.util.AddressParsingUtil
+mc/sdet/codetest/model/RandomAddressModel.java
+ mc.sdet.codetest.model.RandomAddressModel
+ mc.sdet.codetest.model.RandomAddressModel$RandomAddressModelBuilder
+mc/sdet/codetest/controller/RandomAddressController.java
+ mc.sdet.codetest.controller.RandomAddressController
+mc/sdet/codetest/service/RandomAddressService.java
+ mc.sdet.codetest.service.RandomAddressService
+mc/sdet/codetest/SdetRandomAddressApplication.java
+ mc.sdet.codetest.SdetRandomAddressApplication

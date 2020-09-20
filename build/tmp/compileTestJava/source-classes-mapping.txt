@@ -1,0 +1,2 @@
+mc/sdet/codetest/SdetRandomAddressApplicationTests.java
+ mc.sdet.codetest.SdetRandomAddressApplicationTests
